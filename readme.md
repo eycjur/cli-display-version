@@ -6,7 +6,7 @@ Although different commands generally have different options for displaying the 
 
 ```bash
 git clone https://github.com/eycjur/cli-display-version.git
-sudo ln -s $(pwd)/ver/ver /usr/local/bin/ver
+sudo ln -s $(pwd)/cli-display-version/ver /usr/local/bin/ver
 ```
 
 ## Usage
